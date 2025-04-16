@@ -1,0 +1,8 @@
+project:
+  name: kspi
+  depends:
+    k-serial: latest
+    k-collections: latest
+  distribute:
+    - kspi.kum
+    - web.kum
